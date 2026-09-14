@@ -1,0 +1,26 @@
+import java.util.Scanner;
+class collatzSequence{
+	public static void main(String args[]){
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Enter a starting number : ");
+		int collatz = scanner.nextInt();
+		
+		while (collatz == 1){
+			if(collatz %2 == 0){
+				collatz = collatz / 2;
+				print(collatz);
+				count ++;
+			}
+			
+			else if (collatz % 2! == 1){
+				collatz = (collatz *3) + 1;
+			}
+		}	
+			print (collatz);
+			count = count++;
+		else {
+			System.out.print("Enter you input :  ");
+		}
+	}
+}

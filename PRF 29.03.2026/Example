@@ -1,0 +1,16 @@
+import java.util.*;
+class Example{
+	public static void main(String args[]){
+		char ch = 'A';
+		
+		switch(ch) {
+			case 'A':
+				System.out.println("---");
+				break;
+			case 'B':
+				System.out.println("+++");
+		}
+		
+	}
+}
+
