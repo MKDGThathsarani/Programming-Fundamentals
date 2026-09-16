@@ -1,0 +1,12 @@
+class Assignment_02 {
+    public static void main(String args[]) {
+        
+        System.out.print("i	iCM – iCET  CERTIFIED  MASTER\n\n");
+
+        
+        System.out.print("ii	iCM\n iCET\n CERTIFIED\n MASTER\n\n");
+
+       
+        System.out.print("iii	iCM\n iCET  CERTIFIED  MASTER");
+    }
+}
