@@ -53,12 +53,17 @@ class Utils{
 				}
 				return true;
 			}	//Prime number ekakda kiyala check karanawa
-			    public static String reverseString(String str) {
+			public static String reverseString(String str) {
 				String reversed = "";
 				for (int i = str.length() - 1; i >= 0; i--) {
 					reversed += str.charAt(i);
 				}
 				return reversed;
 			}	//String eka receive karanna thamai me method eka hadanne
+			public static int factorial(int n){
+				if (n==0) return 1;
+				return n*factorial(n-1);
+				}
+				
 			
 	}
