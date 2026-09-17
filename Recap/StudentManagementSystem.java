@@ -45,7 +45,7 @@ class Utils{
 			if (i<arr.length -1) System.out.print(", ");
 			}
 			System.out.println("]");
-		}
+		}	//Array eka print wena method eka
 		public static boolean isPrime(int n){
 			if (n <= 1) return false;
 			for (int i = 2; i <= Math.sqrt(n); i++){
