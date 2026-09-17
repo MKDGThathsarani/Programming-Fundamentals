@@ -63,7 +63,12 @@ class Utils{
 			public static int factorial(int n){
 				if (n==0) return 1;
 				return n*factorial(n-1);
-				}
+				}	//methana haduwe factroial ekak eken recursion method eka call karanna use karanawa
+				public static int fibonacci(int n){
+					if (n == 1) return 0;
+					if (n == 2) return 1;
+					return fibonacci(n - 1) + fibonacci(n - 2);
+					} 
 				
 			
 	}
