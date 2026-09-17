@@ -72,3 +72,6 @@ class Utils{
 	}
 	
 //////////////MAIN CLASS///////////////////////	
+public class StudentManagementSystem{
+	
+	}
