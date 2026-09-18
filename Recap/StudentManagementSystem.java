@@ -73,5 +73,5 @@ class Utils{
 	
 //////////////MAIN CLASS///////////////////////	
 public class StudentManagementSystem{
-	static Scanner input = new Scanner (System.in);
+	static Scanner input = new Scanner (System.in);	//User gen input gannawa
 	}
