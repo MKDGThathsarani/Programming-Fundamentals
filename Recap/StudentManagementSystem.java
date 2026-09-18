@@ -75,4 +75,8 @@ class Utils{
 public class StudentManagementSystem{
 	static Scanner input = new Scanner (System.in);	//User gen input gannawa
 	static ArrayList<Student> students = new ArrayList<>();	//students walin data save karagannawa. array size eka wenas wenawane 
+	
+	public static void main(String[] args){
+		
+		}
 	}
