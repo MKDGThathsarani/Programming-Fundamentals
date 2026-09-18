@@ -74,4 +74,5 @@ class Utils{
 //////////////MAIN CLASS///////////////////////	
 public class StudentManagementSystem{
 	static Scanner input = new Scanner (System.in);	//User gen input gannawa
+	static ArrayList<Student> students = new ArrayList<>();
 	}
