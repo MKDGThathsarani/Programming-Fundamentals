@@ -77,6 +77,8 @@ public class StudentManagementSystem{
 	static ArrayList<Student> students = new ArrayList<>();	//students walin data save karagannawa. array size eka wenas wenawane 
 	
 	public static void main(String[] args){
-		
+		System.out.println("==========================================");
+		System.out.println("	STUDENT MANAGEMENT SYSTEM	");
+		System.out.println("==========================================");
 		}
 	}
