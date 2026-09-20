@@ -86,7 +86,9 @@ public class StudentManagementSystem{
 			int choise = getInput("Enter Your choise: ");
 			
 			switch(choice){
-				
+				case 1:
+					addStudent();
+					break;
 				}
 			}
 		}
