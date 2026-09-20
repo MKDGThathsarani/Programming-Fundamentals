@@ -89,6 +89,9 @@ public class StudentManagementSystem{
 				case 1:
 					addStudent();
 					break;
+				case 2:
+					displayAllStudent();
+					break;
 				}
 			}
 		}
