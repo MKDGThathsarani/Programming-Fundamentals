@@ -80,5 +80,10 @@ public class StudentManagementSystem{
 		System.out.println("==========================================");
 		System.out.println("	STUDENT MANAGEMENT SYSTEM	");
 		System.out.println("==========================================");
+		
+		while (true){
+			printMenu();
+			int choise = getInput("Enter Your choise: ");
+			}
 		}
 	}
