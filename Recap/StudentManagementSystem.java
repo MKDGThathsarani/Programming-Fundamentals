@@ -84,6 +84,10 @@ public class StudentManagementSystem{
 		while (true){
 			printMenu();
 			int choise = getInput("Enter Your choise: ");
+			
+			switch(choice){
+				
+				}
 			}
 		}
 	}
