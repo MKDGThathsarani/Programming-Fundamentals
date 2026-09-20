@@ -92,6 +92,10 @@ public class StudentManagementSystem{
 				case 2:
 					displayAllStudent();
 					break;
+				case 3:
+					searchStudent();
+					break;
+				
 				}
 			}
 		}
