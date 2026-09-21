@@ -109,4 +109,9 @@ public class StudentManagementSystem{
 				}
 			}
 		}
+		
+		static void printMenu(){
+			System.out.println("\n--MENU--");
+			
+			}
 	}
