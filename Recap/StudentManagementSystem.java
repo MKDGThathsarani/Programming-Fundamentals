@@ -102,7 +102,7 @@ public class StudentManagementSystem{
 					calculateStudent();
 					break;
 				case 6:
-					System.out.println("Exiting...");
+					System.out.println("Exiting...Thank you!");
 					return;
 				
 				}
