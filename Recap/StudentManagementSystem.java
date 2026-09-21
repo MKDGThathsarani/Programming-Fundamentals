@@ -104,7 +104,7 @@ public class StudentManagementSystem{
 				case 6:
 					System.out.println("Exiting...Thank you!");
 					return;
-				
+				default:
 				}
 			}
 		}
