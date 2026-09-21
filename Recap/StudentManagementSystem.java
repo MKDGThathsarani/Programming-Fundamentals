@@ -114,5 +114,6 @@ public class StudentManagementSystem{
 			System.out.println("\n--MENU--");
 			System.out.println("1. Add Student");
 			System.out.println("2. Display All Students");
+			System.out.println("3. Search Student");
 			}
 	}
