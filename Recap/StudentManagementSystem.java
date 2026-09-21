@@ -112,6 +112,6 @@ public class StudentManagementSystem{
 		
 		static void printMenu(){
 			System.out.println("\n--MENU--");
-			
+			System.out.println("1. Add Student");
 			}
 	}
