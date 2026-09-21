@@ -95,6 +95,15 @@ public class StudentManagementSystem{
 				case 3:
 					searchStudent();
 					break;
+				case 4:
+					sortStudent();
+					break;
+				case 5:
+					calculateStudent();
+					break;
+				case 6:
+					System.out.println("");
+					return;
 				
 				}
 			}
