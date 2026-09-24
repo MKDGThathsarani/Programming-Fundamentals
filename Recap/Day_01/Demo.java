@@ -12,7 +12,7 @@ public class Demo{
 		System.out.println("Salary: " + salary);
 		System.out.println("I Student: " + isStudent);
 		
-		//3.
+		//3.Type eka check karanawa
 		System.out.println("Age Type: " + ((Object)age).getClass().getSimpleName());
 		}
 	}
