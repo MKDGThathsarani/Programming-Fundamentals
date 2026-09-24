@@ -14,5 +14,6 @@ public class Demo{
 		
 		//3.Type eka check karanawa
 		System.out.println("Age Type: " + ((Object)age).getClass().getSimpleName());
+		//Primitive data types(int,double) walata thmai (object)age kiyala cast karanne
 		}
 	}
