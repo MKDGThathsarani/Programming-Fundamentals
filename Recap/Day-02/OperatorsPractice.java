@@ -14,5 +14,12 @@ public class OperatorsPractice{
         System.out.println("x && y: " + (x && y));  // false
         System.out.println("x || y: " + (x || y));  // true
         System.out.println("!x: " + (!x));          // false
+        
+        // 4. Assignment Operators
+        int c = 5;
+        c += 3;  // c = c + 3
+        System.out.println("c += 3: " + c);  // 8
+        c -= 2;  // c = c - 2
+        System.out.println("c -= 2: " + c);  // 6
 		}
 	}
