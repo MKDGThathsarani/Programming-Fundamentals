@@ -21,5 +21,11 @@ public class OperatorsPractice{
         System.out.println("c += 3: " + c);  // 8
         c -= 2;  // c = c - 2
         System.out.println("c -= 2: " + c);  // 6
+        
+         // 5. Increment/Decrement
+        int d = 5;
+        System.out.println("d++: " + (d++));  // 5 (then d = 6)
+        System.out.println("d: " + d);        // 6
+        System.out.println("++d: " + (++d));  // 7
 		}
 	}
