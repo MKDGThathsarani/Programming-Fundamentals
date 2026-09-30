@@ -6,13 +6,13 @@ public class Demo{
 		String name = "Kamal";
 		boolean isStudent = true;
 		
-		//2.Print
-		System.out.println("Name: " + name);
-		System.out.println("Age: " + age);
+		//2.Print wena method
+		System.out.println("Name of: " + name);
+		System.out.println("Age is: " + age);
 		System.out.println("Salary: " + salary);
 		System.out.println("I Student: " + isStudent);
 		
-		//3.Type eka check karanawa
+		//3.Type eka check karanawa.
 		System.out.println("Age Type: " + ((Object)age).getClass().getSimpleName());
 		//Primitive data types(int,double) walata thmai (object)age kiyala cast karanne
 		}
