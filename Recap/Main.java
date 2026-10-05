@@ -48,7 +48,7 @@ public class MethodsPractice {
         }
     }
     
-    // Main method
+    // Main Method
     public static void main(String[] args) {
         
         // 1. No parameters, no return
