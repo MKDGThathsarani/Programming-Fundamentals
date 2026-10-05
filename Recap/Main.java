@@ -2,7 +2,7 @@ public class MethodsPractice {
     
     // 1. No parameters, no return
     public static void sayHello() {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World!!!!");
     }
     
     // 2. Parameters, no return
