@@ -31,7 +31,7 @@ public class MethodsPractice {
     
     // 6. Method with multiple parameters
     public static String introduce(String name, int age, String city) {
-        return "I am " + name + ", " + age + " years old, from " + city;
+        return "I'm " + name + ", " + age + " years old, from " + city;
     }
     
     // 7. Method with return and logic
